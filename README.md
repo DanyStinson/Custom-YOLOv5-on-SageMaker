@@ -1,1 +1,1 @@
-# Custom-YOLOv5-on-SageMaker
+# Custom YOLOv5 on SageMaker
